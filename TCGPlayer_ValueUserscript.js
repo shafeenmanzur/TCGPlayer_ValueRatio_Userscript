@@ -30,7 +30,7 @@ elemDiv.onclick = function() {
         counter++;
     }
 
-    console.log(lowest_price);
+    //console.log(lowest_price);
 
     var searchElements = document.getElementsByClassName('search-result__market-price');
     counter = 0;
