@@ -2,7 +2,7 @@
 // @name         TCGPlayer Value Ratio
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Calculate the value b etween price offering listed on TCGPlayer
+// @description  Calculate the value between price offering listed on TCGPlayer
 // @author       You
 // @match        https://www.tcgplayer.com/search/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tcgplayer.com
